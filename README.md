@@ -1,7 +1,7 @@
 ![智语外呼 · 商家资质审核语音客服工作台 · 北京理工大学纳什最优团队](docs/images/cover.png)
 
 <p align="center">
-  <strong><a href="./演示视频.mp4?raw=true">下载演示视频</a></strong>　·　
+  <strong><a href="./智语外呼答辩.mp4?raw=true">下载讲解视频</a></strong>　·　
   <strong><a href="./项目说明书.pdf">阅读项目书</a></strong>　·　
   <strong><a href="./答辩PPT.pptx?raw=true">下载答辩 PPT</a></strong>　·　
   <strong><a href="./项目源代码.zip?raw=true">下载源码</a></strong>
